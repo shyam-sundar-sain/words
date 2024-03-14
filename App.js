@@ -25,7 +25,7 @@ import HomeScreen from './src/screen/HomeScreen';
 import SubscriptionScree from './src/screen/SubscriptionScree';
 
 const App = () => {
-  return <Flatlist1 />;
+  return <Map />;
 };
 
 export default App;
